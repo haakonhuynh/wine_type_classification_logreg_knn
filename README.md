@@ -26,7 +26,7 @@ This project applies machine learning techniques to predict whether a wine is re
 - Acidity levels, residual sugar, chlorides, sulphates
 - pH, alcohol content, density
 - Free and total sulfur dioxide
-- Quality rating (ordinal, treated as a feature)
+- Quality rating (integer score between 1-10)
 
 ---
 
